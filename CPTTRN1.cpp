@@ -33,5 +33,7 @@ int main()
 		printf("\n");
 		c++;
 	}
-	t--;}
+	t--;
+	}
+	return 0;
 }

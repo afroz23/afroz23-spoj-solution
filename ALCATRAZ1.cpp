@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-	long long int n;
-	int t,sum,i;
+	long long int n,sum,i;
+	int t;
 	cin>>t;
 	while(t!=0)
 	{  

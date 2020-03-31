@@ -6,7 +6,7 @@ int main()
 	int n,k,i;
 	string s;
 	scanf("%d",&n);
-	while(n!=0)
+	while(n--)
 	{
 	cin>>s;
 	k=s.length();
@@ -14,4 +14,7 @@ int main()
 	{
 		printf("%c",s[i]);
 	}
-}}
+	printf("\n");
+}
+return 0;
+}
