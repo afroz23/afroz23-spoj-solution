@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 	int n,i,t,x,z,j,sum,M,temp;
-	M=10^9+7;
+	M=1000000007;
 	cin>>t;
 	while(t--)
 	{
