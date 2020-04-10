@@ -4,7 +4,7 @@ int main()
 {
 	int i,n,x,y,t;
 	cin>>t;
-	while(t!=0)
+	while(t-->0)
 	{
 	cin>>n>>x>>y;
 	for(i=0;i<n;i++)
@@ -15,6 +15,6 @@ int main()
 		}
 	}
 	cout<<"\n";
-	t--;
+	
 }
 }
